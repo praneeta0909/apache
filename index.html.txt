@@ -1,5 +1,5 @@
 <html>
   <head>
-    <title>PRANEETA Kumari</title>
+    <title>PRANEETAKumari</title>
   </head>
 </html>
